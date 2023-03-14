@@ -31,5 +31,6 @@ if __name__ == '__main__':
     c = int(input("c: "))
     result = demo(a, b, c)
     print(result)
+    print(3)
 
 
